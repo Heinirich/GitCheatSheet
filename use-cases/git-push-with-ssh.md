@@ -1,6 +1,6 @@
 # Setup git push with SSH
 
-## Generate SSH KEY with ssh-keygen
+## Generate SSH KEY with ssh-keygen Ubuntu
 
 ```bash
 ssh-keygen -t rsa -C "your_github_email@example.com"
